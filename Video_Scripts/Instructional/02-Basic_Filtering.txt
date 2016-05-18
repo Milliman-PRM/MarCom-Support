@@ -1,0 +1,8 @@
+PRM Analytics Tools make exploring and filtering your data easy.
+Starting on the filter tab, you will find a series of list boxes that allow you to make selections which filter the data.
+To make a selection, simply click on the desired value from the list box.
+In addition to selecting a single value, you can also click and drag to select multiple adjoining values, or hold Control and make multiple selections from anywhere in the list.
+Once you have made your selections, they will turn green, indicating that those values are now selected, and they will appear in the current selections bar above.
+As you make selections, objects on the page will automatically update based on the values that you have chosen.
+It's important to note that making selections will cause some values to grey out, indicating that those values are no longer available given your current selections.
+Additionally, certain list boxes allow you to search using a word or phrase.

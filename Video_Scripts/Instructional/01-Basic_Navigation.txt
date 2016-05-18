@@ -1,0 +1,7 @@
+All PRM Analytics Tools have the same basic navigational structure.
+At the top of the page you will find a row of tabs that will take you to each of the major functional areas of the report.
+These tabs are visible from anywhere in the report, making it easy to navigate between each section.
+In some instances you will find an additional row of tabs that allow you to explore the data in that section of the report.
+Clicking on a tab will cause it to change color, allowing you to easily identify where you are in the report.
+In some instances one or more of the tabs may be greyed out, indicating that the section is not currently available.
+When this happens, hovering your mouse over the tab will provide a brief message indicating the reason that the section is currently unavailable.

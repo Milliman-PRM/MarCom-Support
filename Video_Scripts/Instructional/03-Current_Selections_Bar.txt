@@ -1,0 +1,7 @@
+Located toward the top of the page, the Current Selections bar allows you to view, modify, and clear your selections.
+As you make selections, you will notice that those values are added to the current selections bar.
+Hovering over the bar gives you a quick view of the selections that you have made.
+For a more in-depth look, or to make changes to the current selections, you can click on the "Show Selections" button, or click on the bar itself to get an expanded view.
+From here, you can clear the selections from individual fields by clicking on the eraser icon, or modify the selection by clicking on the black arrow and choosing new values from the list.
+Once you are done viewing the selections, simply click on the "Hide Selections" button, or click on the current selections bar again, to collapse the detailed view once more.
+Finally, if you'd like to clear all of your current selections, simply click on the "Clear Selections" button on the far right.
