@@ -6,12 +6,13 @@
   * What is PRM Analytics
   * Why was PRM Analytics developed
   * What makes us unique
-* Potentially Avoidable Costs
-  * What does potentially avoidable mean?  
-  * How we predict these potentially avoidable costs
+* Predictive Analytics
+  * What does potentially avoidable costs mean?  
+  * How we predict potentially avoidable costs
   * How this makes us different from competitors
-* Who uses our tool
-  * Care coordinators, Medical directors, Physicians, Other professionals responsible for pop health management
-* How the tool is used (incorporating the predictive analytics)
+     * Machine Learning 
+* Who uses our tools
+  * Care coordinators, Medical directors, Physicians, Analysts, Other professionals responsible for population health management
+
 
 
