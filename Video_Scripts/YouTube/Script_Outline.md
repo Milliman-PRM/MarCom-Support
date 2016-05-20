@@ -1,6 +1,8 @@
 ##PRM YouTube Script
 
-####Outline:
+####Outline: 
+
+(I think I need to start over on this but keeping it around until I do)
 
 * Introduction
   * What is PRM Analytics
@@ -15,4 +17,18 @@
   * Care coordinators, Medical directors, Physicians, Analysts, Other professionals responsible for population health management
 
 
+
+####Kelsie thoughts
+
+PRM Analytics is a product that uses predictive analytics to find potentially avoidable costs at the patient level.
+
+This is both helpful for the care coordinators for lowering hospital costs, and for the patient in receiving the best quality of care.
+
+By using our product, you can find trends that are occurring in your data and from there drill deeper. 
+
+Our CCR allows you to drill down into the patient level to see what is driving costs.
+
+After finding the issues at the patient level, you can then act on those patients to intervene with those potentially avoidable costs in the future. 
+
+We strive to help better the patient care and save you money.
 
