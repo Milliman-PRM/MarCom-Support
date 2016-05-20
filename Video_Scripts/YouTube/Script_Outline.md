@@ -32,3 +32,22 @@ After finding the issues at the patient level, you can then act on those patient
 
 We strive to help better the patient care and save you money.
 
+
+
+####Things to include:
+
+we are trustworthy and reliable with our results
+
+episodes
+
+readmission rates
+
+risk scores
+
+id gaps in care
+
+give an example of how we help (role specific)
+
+ * care coordinator uses our reports to identify patients who utilize the er too often (just an example idea)
+
+
