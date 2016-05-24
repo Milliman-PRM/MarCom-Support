@@ -5,3 +5,6 @@ For a more in-depth look, or to make changes to the current selections, you can 
 From here, you can clear the selections from individual fields by clicking on the eraser icon, or modify the selection by clicking on the black arrow and choosing new values from the list.
 Once you are done viewing the selections, simply click on the "Hide Selections" button, or click on the current selections bar again, to collapse the detailed view once more.
 Finally, if you'd like to clear all of your current selections, simply click on the "Clear Selections" button on the far right.
+
+Test
+Test
