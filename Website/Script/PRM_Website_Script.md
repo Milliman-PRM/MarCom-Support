@@ -178,8 +178,9 @@
  * In-network vs out of network utilization reporting
  * Identification of condition specific avoidable costs
  * Quality metric reporting and gaps in care
-* Physician Support Staff 
- * Role in Population Management
+
+####Physician Support Staff 
+* Role in Population Management
  * Assist with management of patients
  * Provide direct and frequent patient focused care
  * Develop and implement patient care management plans
