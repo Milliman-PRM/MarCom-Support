@@ -20,10 +20,8 @@
   * Your Payments are at Risk.
   * Sub header: 
     * Population Health Management is Risk Management. Milliman Understands Risk.
-
 * Transition Text to Scrolling Role and Organization Descriptions:
   * Learn how providers, population health managers, and executive leadership benefit from our integrated solutions.
-
 * By Role – Scrolling Image Descriptions
   * Care Coordinator: Prioritize patients with the most clinical opportunity.  Discover factors and conditions that contribute the most risk to each patient.
   * Financial/Executive Leadership: Use Milliman’s cost model to uncover underlying drivers of cost at a system, clinical, or physician level.
@@ -180,7 +178,6 @@
  * In-network vs out of network utilization reporting
  * Identification of condition specific avoidable costs
  * Quality metric reporting and gaps in care
-
 * Physician Support Staff 
  * Role in Population Management
  * Assist with management of patients
@@ -204,7 +201,6 @@
  * Holistic picture of patient care across service providers for specific health episodes
 
 ###Our Solution – By Organization - LINK
-
 * Sub Header: To be successful in an environment driven by Value Based Reimbursement, an organization must build competency in population health management.
  * Population health management includes system-wide initiatives that seek to improve healthcare quality, access, and outcomes through disease management, case management and demand management.
 
@@ -278,9 +274,7 @@
  * Prioritized list of beneficiaries to with high avoidable costs
  * Strategic consulting
 
-####Medicare Shared Savings Program
-
-####Medicaid Managed Care Organization
+####Medicare Shared Savings Program/Medicaid Managed Care Organization
 * Who are they?	Medicaid Managed Care Organizations are healthcare delivery systems comprised of state Medicaid agencies and managed care organizations (MCOs) working together to improve quality of care and control healthcare costs. 
 * Population Management 
 * Business Questions
@@ -390,7 +384,7 @@
 * Benefits
  * Ability to identify well managed and loosely managed targets
 
-###Success StoriesResources – Our Clients - LINK
+###Success Stories Resources – Our Clients - LINK
 * Value-based payment models require healthcare organizations to be equal parts risk manager, clinical manager, financial manager, and resource/operations manager.
 * Milliman PRM Analytics was specifically developed to support all of these roles required for success under value based revenue contracts. 
 * PRM Analytics is used by care coordinators, medical directors, physicians, and other professionals who are responsible for population health management.
@@ -399,7 +393,7 @@
 * Although there are many qualified consulting and analytic firms, we feel that no firm can match the combination of Milliman’s experience, high technical ability and client service.  In a world overloaded with information, our clients rely on us to help find the right information and turn it into actionable knowledge to solve their toughest problems with confidence. We are committed to bringing depth, clarity and context to the issues and challenges that our clients face every day. Our clients rely on us to be industry experts, trusted advisers, and creative problem-solvers.
 * In 2015, Milliman did work for 55 of the Fortune 100 Companies, and for 170 of the Fortune 500 Companies.
 
-###Success StoriesResources – Case Studies – LINK 
+###Success Stories Resources – Case Studies – LINK 
 * Reducing total cost of care
 * Preparing for Value Based Care
 * Measuring quality and outcomes
