@@ -10,24 +10,24 @@
 
 
 ###Leadership
-**Art Wilmes**
-FSA, MAAA, Principal and Consulting Actuary
+**Art Wilmes**  
+FSA, MAAA, Principal and Consulting Actuary  
 *photo*
 
-**Shea Parkes**
-FSA, Actuary
+**Shea Parkes**  
+FSA, Actuary  
 *photo*
 
-**David Pierce**
-Director of Operations
+**David Pierce**  
+Director of Operations  
 *photo*
 
-**Paul McRae**
-Director of Sales
+**Paul McRae**  
+Director of Sales  
 *photo*
 
-**Andy Barnes**
-Product Manager
+**Andy Barnes**  
+Product Manager  
 *photo*
 
 ###Events
@@ -37,26 +37,26 @@ Product Manager
 *job postings*
 
 ###Contact Us
-**Art Wilmes, FSA, MAAA**
-Principal and Consulting Actuary – PRM Analytics®
-art.wilmes@milliman.com
+**Art Wilmes, FSA, MAAA**  
+Principal and Consulting Actuary – PRM Analytics®  
+art.wilmes@milliman.com  
 
-**David Pierce**
-Director of Operations, PRM Analytics®
-david.pierce@milliman.com
+**David Pierce**  
+Director of Operations, PRM Analytics®  
+david.pierce@milliman.com  
 
-**Paul McRae**
-National Sales Director – PRM Analytics®
-paul.mcrae@milliman.com
+**Paul McRae**  
+National Sales Director – PRM Analytics®  
+paul.mcrae@milliman.com  
 
-**Andy Barnes**
-Product Manager – PRM Analytics®
-andy.barnes@milliman.com
+**Andy Barnes**  
+Product Manager – PRM Analytics®  
+andy.barnes@milliman.com  
 
-**Phone**
+**Phone**  
 +1 317 524 3510  
 
-**Address**
+**Address**  
 Chase Tower/Circle  
 111 Monument Circle, Suite 601  
 Indianapolis, IN 46204  
