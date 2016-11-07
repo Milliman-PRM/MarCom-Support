@@ -310,7 +310,7 @@
 
 ###Our Solution – By Product – LINK
 * Sub Header: Value Based Care means one thing: Care coordination has become an even more important tool to deliver better and smarter care. 
-  *Milliman’s PRM Analytics® offers a suite of tools that help prioritize comprehensive, coordinated care efforts that raise the level of quality and efficiency.
+ * Milliman’s PRM Analytics® offers a suite of tools that help prioritize comprehensive, coordinated care efforts that raise the level of quality and efficiency.
 
 ####Care Coordinator Report
 * High Level Product Description: The PRM Care Coordinator Report provides care managers with a comprehensive view of recent patient clinical and claims activity, making management more efficient and effective. This allows for an entity to strategically select and manage patients for the best opportunity to reduce risk.
