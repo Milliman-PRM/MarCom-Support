@@ -85,6 +85,19 @@ Provides care managers with a comprehensive view of recent patient clinical and 
  * Custom analytics that will help meet healthcare challenges head on 
  * Supports self-service management of role-based security of PHI data
 
+###Caregiver's Checklist
+Provides physicians with a list of items to go over at the point of care.
+
+#####Features
+ * Quality Metrics that have or have not been met  
+ * Identifies chronic conditions and associated risk factors
+ * Patient's current conditions
+ * Specialist visits
+ * Prescription drug use
+
+#####Benefits
+ * Provides caregiver's with actionable data at the point of care
+
 ###Power User Datamart
 A replication of the curated claims data delivered via a data mart transferred as a SQLite database. The central data repository consolidates data from a variety of clinical sources into a clinical data repository, presenting a unified view of a single patient. 
 
