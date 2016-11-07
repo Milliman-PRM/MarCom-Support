@@ -12,7 +12,7 @@
 ##Homepage
 * Hero Image Text:
 * Header: Manage Clinical, Financial & Operational Risk with Confidence
-* Sub header: Our solutions are built on a strong data foundation and are supported by predictive analytics that identify avoidable costs that have yet to occur.
+ * Sub header: Our solutions are built on a strong data foundation and are supported by predictive analytics that identify avoidable costs that have yet to occur.
 * Transition Text to Product Icons:
   * Our solutions are built on a strong data foundation of integrated financial, clinical, and administrative data from multiple sources and are supported by predictive analytics that identify avoidable costs that have yet to occur.
 * Transition Text to Product Icons:
@@ -49,9 +49,9 @@
 * What does potentially avoidable costs mean?
   * The term 'potentially avoidable' costs refers to the acute services related to chronic conditions that have the potential to be avoided via enhanced ambulatory care management.
 * How does PRM protect consumer privacy?
-  * PRM operates under HIPPA, which establishes the requirements for the disclosure of Protected Health Information (PHI). The strict and comprehensive requirements are part of the legislation and are universally recognized throughout the insurance and healthcare industries. PRM prides itself on our secure systems and state of the art infrastructure that keeps consumer data confidential.
+  * PRM operates under HIPAA, which establishes the requirements for the disclosure of Protected Health Information (PHI). The strict and comprehensive requirements are part of the legislation and are universally recognized throughout the insurance and healthcare industries. PRM prides itself on our secure systems and state of the art infrastructure that keeps consumer data confidential.
 * How are the reports delivered? 
-  * PRM is delivered as a web-based application, thatapplication, which is accessed by clients through a secure sign-on process. Access to the tool is not available without a license agreement. PRM, at the user level, does not provide user controlled predictive analytics. Users haveare limited to view and filter capabilitiesy through the PRM interface.
+  * PRM is delivered as a web-based application, which is accessed by clients through a secure sign-on process. Access to the tool is not available without a license agreement. PRM, at the user level, does not provide user controlled predictive analytics. Users are limited to view and filter capabilities through the PRM interface.
 * How does PRM support providers participating in APMs, MIPs, or those that have yet to decide which MACRA track to take?
   * Help organizations meet their cost benchmarks by identifying patient populations or conditions contributing the most avoidable costs to the system
   * Identify patient populations that have not yet received services related to quality metrics, which allows physicians to prioritize them to ensure the quality metric is met
@@ -63,9 +63,9 @@
    * “I don’t need to look at the EMR anymore. This has everything I need”.
    * “This is amazing, the best I have ever seen”.
 * How is PRM different from the other population health management solutions in the market?
-  * PRM is not a factor-driven model. This is an important distinction for PRM as compared to metrics/factors developed from large databases. The former will assign the same metrics/factors to each patient with the same morbidity and demographic composition. However, not all provider institutions and payors have the same level of population management skills or outcomes. PRM can recognize and accommodate these differences, thus providing important insight into efficient healthcare management.
+  * PRM is not a factor-driven model. This is an important distinction for PRM as compared to metrics/factors developed from large databases. The former will assign the same metrics/factors to each patient with the same morbidity and demographic composition. However, not all provider institutions and payers have the same level of population management skills or outcomes. PRM can recognize and accommodate these differences, thus providing important insight into efficient healthcare management.
 * How does PRM protect consumer privacy?
-  * PRM operates under HIPPA, which establishes the requirements for the disclosure of Protected Health Information (PHI). The strict and comprehensive requirements are part of the legislation and are universally recognized throughout the insurance and healthcare industries. PRM prides itself on our secure systems and state of the art infrastructure that keeps consumer data confidential.
+  * PRM operates under HIPAA, which establishes the requirements for the disclosure of Protected Health Information (PHI). The strict and comprehensive requirements are part of the legislation and are universally recognized throughout the insurance and healthcare industries. PRM prides itself on our secure systems and state of the art infrastructure that keeps consumer data confidential.
 * What does potentially avoidable costs mean?
   * The term 'potentially avoidable' costs refers to the acute services related to chronic conditions that have the potential to be avoided via enhanced ambulatory care management.
 
@@ -121,7 +121,7 @@
 
 ####Clinical Leadership 
 * Role in Population Management
- * Oversight of clinical initiatives and system wide campaigns like disease mgmt.
+ * Oversight of clinical initiatives and system wide campaigns like disease management.
  * Clinical performance evaluation for facilities, physician groups, and disease states
  * Evaluation of service expansion and extension
  * Involved in the development of reimbursement strategies
@@ -315,7 +315,7 @@
  * Beneficiary specific, longitudinal data and risk scoring reporting
 
 ###Our Solution – By Product – LINK
-* Sub Header: Value-based cCare means one thing: Care coordination has become an even more important tool to deliver better and smarter care. 
+* Sub Header: Value Based Care means one thing: Care coordination has become an even more important tool to deliver better and smarter care. 
   *Milliman’s PRM Analytics® offers a suite of tools that help prioritize comprehensive, coordinated care efforts that raise the level of quality and efficiency.
 
 ####Care Coordinator Report
@@ -396,7 +396,7 @@
 * PRM Analytics is used by care coordinators, medical directors, physicians, and other professionals who are responsible for population health management.
 * In 2015, Milliman did work for 55 of the Fortune 100 Companies, and for 170 of the Fortune 500 Companies.
 * We’re a client-focused firm and our approach is tailored to each client and each project. While PRM Analytics is one of many Milliman-developed tools, we don’t sell cookie-cutter, pre-packaged answers to your business problems. With your specific needs in mind, our tool delivers customized, thoughtful and flexible solutions targeted to your environment.
-* Although there are many qualified consulting and analytic firms, we feel that no firm can match the combination of Milliman’s experience, high technical ability and client service.  In a world overloaded with information, our clients rely on us to help find the right information and turn it into actionable knowledge to solve their toughest problems with confidence. We are committed to bringing depth, clarity and context to the issues and challenges that our clients face every day. Our clients rely on us to be industry experts, trusted advisors, and creative problem-solvers.
+* Although there are many qualified consulting and analytic firms, we feel that no firm can match the combination of Milliman’s experience, high technical ability and client service.  In a world overloaded with information, our clients rely on us to help find the right information and turn it into actionable knowledge to solve their toughest problems with confidence. We are committed to bringing depth, clarity and context to the issues and challenges that our clients face every day. Our clients rely on us to be industry experts, trusted advisers, and creative problem-solvers.
 * In 2015, Milliman did work for 55 of the Fortune 100 Companies, and for 170 of the Fortune 500 Companies.
 
 ###Success StoriesResources – Case Studies – LINK 
